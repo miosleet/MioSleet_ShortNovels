@@ -1,5 +1,5 @@
 # CristalSugar's Trouble
-chmod a+x gh-md-toc
+@[TOC](目录)
 ## 序幕
 “至少VUP的冰糖，是S哟~”  
 冰糖透过手机屏幕，装作是一个威严满满的虚拟主播，在被窝中蜷缩成一团，在与屏幕后方的观众们斗气着呢。  
