@@ -1,4 +1,4 @@
-# CristalSugar's Trouble
+CristalSugar's Trouble
 ======
 @[TOC](目录)  
 ~~上面这行是目录，但是GitHub好像不支持，但是也不要紧~~
